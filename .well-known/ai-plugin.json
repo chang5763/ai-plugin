@@ -9,7 +9,7 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://chang5763.github.io/ai-plugin/.well-known/openapi.yaml",
+    "url": "https://chang5763.github.io/ai-plugin/.well-known/openapi.json",
     "is_user_authenticated": false
   },
   "logo_url": "https://chang5763.github.io/ai-plugin/logo.png",
